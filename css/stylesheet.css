@@ -1,0 +1,16 @@
+body {
+    background-color: #888888;
+}
+
+a {
+    color:darkblue;
+}
+
+h3 {
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+    text-justify: inter-word;
+}
