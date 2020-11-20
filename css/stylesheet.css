@@ -14,3 +14,10 @@ p {
     text-align: justify;
     text-justify: inter-word;
 }
+.boldtext {
+    font-weight: bold;
+}
+
+li {
+    list-style-type: square;
+}
